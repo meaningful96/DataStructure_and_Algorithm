@@ -1,4 +1,3 @@
-# Deep Learning for AI engineer
 def ShellSort(list):
     distance = len(list)//2
     while distance > 0:
