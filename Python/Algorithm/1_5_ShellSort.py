@@ -1,11 +1,4 @@
 # Deep Learning for AI engineer
-"""
-Created on Youminkk
-
-
-Nil sine magno vitae labore dedit mortalibus
-"""
-
 def ShellSort(list):
     distance = len(list)//2
     while distance > 0:
